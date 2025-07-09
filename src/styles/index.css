@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scroll & box sizing */
+html {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+/* Body Theme – Elegant & Modern */
+body {
+  @apply bg-gradient-to-br from-gray-900 via-gray-800 to-gray-950 text-gray-200 font-sans antialiased leading-relaxed;
+  font-feature-settings: "liga", "kern";
+  transition: all 0.3s ease-in-out;
+}
+
+/* Headings – Branded Look */
+h1, h2, h3, h4, h5 {
+  @apply font-semibold text-white tracking-tight;
+}
+
+h1 {
+  @apply text-4xl md:text-5xl lg:text-6xl mb-4;
+}
+
+h2 {
+  @apply text-3xl md:text-4xl mb-3;
+}
+
+h3 {
+  @apply text-2xl md:text-3xl mb-2;
+}
+
+/* Links – Interactive & Smart Hover */
+a {
+  @apply text-blue-400 hover:text-blue-300 underline underline-offset-4;
+  transition: color 0.3s ease;
+}
+
+/* Buttons – Reusable Utility */
+.btn {
+  @apply px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-medium shadow-md transition duration-300;
+}
+
+/* Card Component */
+.card {
+  @apply bg-gray-800/60 backdrop-blur-lg border border-gray-700 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 ease-in-out;
+}
+
+/* Code Blocks & Terminal */
+pre, code {
+  @apply bg-gray-800 text-green-400 font-mono px-2 py-1 rounded;
+}
+
+/* Animations */
+.fade-in {
+  animation: fadeIn 1s ease-out both;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive Layout Helpers */
+.container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}

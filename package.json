@@ -1,0 +1,65 @@
+{
+  "name": "ai-ethics-monitoring-dashboard",
+  "version": "1.0.0",
+  "description": "Advanced AI Ethics Monitoring Dashboard for real-time bias detection, fairness enforcement, and congressional compliance oversight",
+  "keywords": [
+    "ai-ethics",
+    "bias-detection",
+    "fairness",
+    "civil-rights",
+    "healthcare-ai",
+    "congressional-oversight",
+    "dashboard",
+    "react",
+    "monitoring",
+    "ai-governance",
+    "antitrust",
+    "policy"
+  ],
+  "author": {
+    "name": "Joseph Bidias",
+    "email": "aiglevision35@gmail.com",
+    "url": "https://linkedin.com/in/joseph-bidias"
+  },
+  "license": "MIT",
+  "homepage": "https://eaglepython.github.io/ai-ethics-monitoring-dashboard",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaglepython/ai-ethics-monitoring-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eaglepython/ai-ethics-monitoring-dashboard/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "predeploy": "npm run build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "clsx": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^6.0.0",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
