@@ -11,7 +11,7 @@
 ### **[🔗Launch the ai ethics monitoring dashboard](https://eaglepython.github.io/ai-ethics-monitoring-dashboard/)**
 
 ## 🌟 Features
-https://eaglepython.github.io/ai-ethics-monitoring-dashboard/
+
 ### 🎯 **Executive Overview**
 - **Real-time Risk Assessment**: Predictive ethical risk scoring (0-10 scale)
 - **Critical Alerts System**: Priority-based notifications with financial impact estimates
