@@ -11,7 +11,7 @@
 > **Advanced AI Ethics Command Center** for real-time bias detection, fairness enforcement, and congressional compliance oversight in healthcare AI systems.
 
 
-### 🚀 **[🔗 Launch The AI Ethics Command Center](https://eaglepython.github.io/ai-ethics-monitoring-dashboard)**  
+### 🚀 **[🔗 Launch The demo AI Ethics Command Center](https://eaglepython.github.io/ai-ethics-monitoring-dashboard)**  
 
 ## 🌟 Features
 
