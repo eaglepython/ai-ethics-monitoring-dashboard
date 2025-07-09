@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/66e90089-33aa-46d4-89a8-5d09be71aace)
+![image](https://github.com/user-attachments/assets/1e9dd2e9-fa70-4aa6-bf7e-9bc3fcb3c0b2)
+
 
 
 # 🛡️ AI Ethics Monitoring Dashboard
