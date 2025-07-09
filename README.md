@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/66e90089-33aa-46d4-89a8-5d09be71aace)
+
+
 # 🛡️ AI Ethics Monitoring Dashboard
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
