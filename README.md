@@ -370,6 +370,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 </div>o
 
-
-# -ai-ethics-monitoring-dashboard
-# -ai-ethics-monitoring-dashboard
