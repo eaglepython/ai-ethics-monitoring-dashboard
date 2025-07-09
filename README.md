@@ -1,12 +1,12 @@
 # 🏛️ AI Governance Portfolio - Joseph Bidias
 
-**Senior AI Engineer | AI Governance Researcher | AI2030 Global Fellow**
+**Senior AI Engineer | AI solution Architect & Governance Researcher | AI2030 Global Fellow**
 
 *Bridging AI Innovation with Democratic Accountability Through Practical Implementation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephbidias)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@josephbidias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josephbidias@yahoo.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@rodabeck777)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aiglevision35@gmail.com)
 
 ---
 
@@ -88,16 +88,16 @@ This portfolio showcases **three deployed AI governance systems** that demonstra
 ## 📝 Research & Thought Leadership
 
 ### Published Articles
-1. **["Bridging Innovation and Accountability: The Path Forward for AI Governance in 2025"](https://medium.com/@josephbidias)**
+1. **["Bridging Innovation and Accountability: The Path Forward for AI Governance in 2025"](https://medium.com/@rodabeck777/bridging-innovation-and-accountability-the-path-forward-for-ai-governance-in-2025-9059eed8e3d2)**
    - 10,000+ views, foundational AI governance framework
 
-2. **["Financial Contagion Meets AI: Systemic Risk in Algorithmic Decision-Making"](https://medium.com/@josephbidias)**
+2. **["Financial Contagion Meets AI: Systemic Risk in Algorithmic Decision-Making"](https://medium.com/@rodabeck777/financial-contagion-meets-ai-systemic-risk-in-algorithmic-decision-making-41c2fa87d0a3)**
    - Viral analysis of AI concentration risks using financial engineering
 
-3. **["The Implementation Crisis: Why Great AI Policies Fail in Practice"](https://medium.com/@josephbidias)**
+3. **["The Implementation Crisis: Why Great AI Policies Fail in Practice"](https://medium.com/@rodabeck777/the-implementation-crisis-why-great-ai-policies-fail-in-practice-f91b19b0f30e)**
    - Bridging policy intention with technical implementation reality
 
-4. **["Beyond Bias Audits: Building Continuous AI Accountability Systems"](https://medium.com/@josephbidias)**
+4. **["Beyond Bias Audits: Building Continuous AI Accountability Systems"](https://medium.com/@rodabeck777/beyond-bias-audits-building-continuous-ai-accountability-systems-d9f577ac4dac)**
    - Framework for real-time AI monitoring vs. periodic audits
 
 ---
@@ -156,10 +156,10 @@ Each system includes ready-to-run demonstrations showing:
 **Joseph Bidias**  
 Senior AI Engineer | AI Governance Researcher | AI2030 Global Fellow
 
-📧 **Email:** josephbidias@yahoo.com  
+📧 **Email:** aiglevision35@gmail.com 
 📱 **Phone:** (214) 886-3785  
 🌐 **LinkedIn:** [linkedin.com/in/josephbidias](https://linkedin.com/in/josephbidias)  
-📝 **Medium:** [@josephbidias](https://medium.com/@josephbidias)
+📝 **Medium:** [@josephbidias](https://medium.com/@rodabeck777)
 
 ### Available for:
 - **Congressional AI Policy Consultation**
