@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Primary Meta Tags -->
+    <title>AI Ethics Monitoring Dashboard</title>
+    <meta name="title" content="AI Ethics Monitoring Dashboard">
+    <meta name="description" content="Advanced AI Ethics Command Center for real-time bias detection, fairness enforcement, and congressional compliance oversight in healthcare AI systems.">
+    <meta name="keywords" content="ai ethics, bias detection, fairness, civil rights, healthcare ai, congressional oversight, dashboard, monitoring">
+    <meta name="author" content="Joseph Bidias">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://eaglepython.github.io/ai-ethics-monitoring-dashboard/">
+    <meta property="og:title" content="AI Ethics Monitoring Dashboard">
+    <meta property="og:description" content="Advanced AI Ethics Command Center for real-time bias detection, fairness enforcement, and congressional compliance oversight.">
+    <meta property="og:image" content="https://eaglepython.github.io/ai-ethics-monitoring-dashboard/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://eaglepython.github.io/ai-ethics-monitoring-dashboard/">
+    <meta property="twitter:title" content="AI Ethics Monitoring Dashboard">
+    <meta property="twitter:description" content="Advanced AI Ethics Command Center for real-time bias detection, fairness enforcement, and congressional compliance oversight.">
+    <meta property="twitter:image" content="https://eaglepython.github.io/ai-ethics-monitoring-dashboard/twitter-image.png">
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#8B5CF6">
+    
+    <!-- PWA Meta Tags -->
+    <meta name="application-name" content="AI Ethics Dashboard">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="AI Ethics Dashboard">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    
+    <!-- Performance & Security -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    
+    <!-- Critical CSS Preload -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"></noscript>
+    
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "AI Ethics Monitoring Dashboard",
+      "description": "Advanced AI Ethics Command Center for real-time bias detection, fairness enforcement, and congressional compliance oversight in healthcare AI systems.",
+      "url": "https://eaglepython.github.io/ai-ethics-monitoring-dashboard/",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web Browser",
+      "permissions": "browser",
+      "author": {
+        "@type": "Person",
+        "name": "Joseph Bidias",
+        "email": "aiglevision35@gmail.com",
+        "url": "https://linkedin.com/in/joseph-bidias",
+        "sameAs": [
+          "https://github.com/eaglepython",
+          "https://linkedin.com/in/joseph-bidias"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      "browserRequirements": "Requires JavaScript. Requires HTML5.",
+      "softwareVersion": "1.0.0",
+      "dateCreated": "2025-07-09",
+      "dateModified": "2025-07-09"
+    }
+    </script>
+    
+    <!-- Content Security Policy -->
+    <meta http-equiv="Content-Security-Policy" content="
+      default-src 'self';
+      script-src 'self' 'unsafe-inline' 'unsafe-eval';
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' https://fonts.gstatic.com;
+      img-src 'self' data: https:;
+      connect-src 'self' https://api.github.com;
+      object-src 'none';
+      base-uri 'self';
+      form-action 'self';
+    ">
+    
+    <!-- Initial Loading Styles -->
+    <style>
+      /* Critical CSS for initial load */
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        overflow-x: hidden;
+      }
+      
+      #root {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .loading-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        color: white;
+        text-align: center;
+      }
+      
+      .loading-spinner {
+        width: 50px;
+        height: 50px;
+        border: 3px solid rgba(255, 255, 255, 0.3);
+        border-top: 3px solid #8B5CF6;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-bottom: 20px;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      
+      .loading-text {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 10px;
+      }
+      
+      .loading-subtext {
+        font-size: 14px;
+        opacity: 0.8;
+      }
+      
+      @media (max-width: 768px) {
+        .loading-text {
+          font-size: 16px;
+        }
+        .loading-subtext {
+          font-size: 12px;
+        }
+      }
+    </style>
+    <script type="module" crossorigin src="/ai-ethics-monitoring-dashboard/assets/index-9752828a.js"></script>
+    <link rel="modulepreload" crossorigin href="/ai-ethics-monitoring-dashboard/assets/vendor-b1791c80.js">
+    <link rel="modulepreload" crossorigin href="/ai-ethics-monitoring-dashboard/assets/icons-ae645cde.js">
+    <link rel="stylesheet" href="/ai-ethics-monitoring-dashboard/assets/index-e94b5769.css">
+  </head>
+  <body>
+    <!-- Loading Screen -->
+    <div id="root">
+      <div class="loading-container">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">AI Ethics Monitoring Dashboard</div>
+        <div class="loading-subtext">Loading advanced bias detection systems...</div>
+      </div>
+    </div>
+    
+    <!-- JavaScript -->
+    
+    
+    <!-- Service Worker Registration -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/sw.js')
+            .then(function(registration) {
+              console.log('SW registered: ', registration);
+            })
+            .catch(function(registrationError) {
+              console.log('SW registration failed: ', registrationError);
+            });
+        });
+      }
+    </script>
+    
+    <!-- Analytics (if needed) -->
+    <!-- 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+    -->
+    
+    <!-- Error Handling -->
+    <script>
+      window.addEventListener('error', function(e) {
+        console.error('Global error:', e.error);
+        // You can send error reports to your logging service here
+      });
+      
+      window.addEventListener('unhandledrejection', function(e) {
+        console.error('Unhandled promise rejection:', e.reason);
+        // You can send error reports to your logging service here
+      });
+    </script>
+  </body>
+</html>
