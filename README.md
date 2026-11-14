@@ -1,31 +1,36 @@
+<div align="center">
+
 # AI Ethics Monitoring Dashboard
 
-![status](https://img.shields.io/badge/status-prototype-orange) ![license](https://img.shields.io/badge/license-MIT-green) ![built_with](https://img.shields.io/badge/built_with-React-61DAFB) ![bundler](https://img.shields.io/badge/bundler-Vite-646CFF) ![styling](https://img.shields.io/badge/styling-Tailwind_CSS-38B2AC)
+### A monitoring screen for bias and fairness in healthcare AI models.
 
-![Dashboard screenshot](https://github.com/user-attachments/assets/98cedaf4-0fbf-4112-a8a4-5024f3f6859f)
+![Status](https://img.shields.io/badge/Status-Prototype-E67E22?style=flat-square)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Build-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square)
 
-*Screenshot of the demo. All figures shown are simulated.*
+[**Live demo →**](https://eaglepython.github.io/ai-ethics-monitoring-dashboard)
 
-A front-end prototype of a monitoring screen for bias and fairness in healthcare AI models.
+<br/>
 
-**Status: prototype with simulated data.** The numbers on screen are randomly generated in the browser and refresh on a timer to imitate a live feed. The app is not connected to any real model or dataset, and the model names shown are fictional examples.
+<img src="https://github.com/user-attachments/assets/98cedaf4-0fbf-4112-a8a4-5024f3f6859f" alt="Dashboard" width="90%"/>
 
-Live demo: https://eaglepython.github.io/ai-ethics-monitoring-dashboard
+</div>
+
+---
+
+> [!NOTE]
+> **Status: prototype with simulated data.** The numbers on screen are generated in the browser and refresh on a timer to imitate a live feed. The app is not connected to any real model or dataset, and the model names shown are fictional examples.
 
 ## What it shows
 
-- An overview with a risk score, alerts, and a bias heatmap by demographic group
-- Fairness measures such as demographic parity and equalized odds, alongside standard accuracy measures
-- A compliance view organized around HIPAA, GDPR, CCPA, and the EU AI Act
-- An oversight view with example action items and a report export
+- **Overview** — a risk score, alerts, and a bias heatmap by demographic group
+- **Fairness** — demographic parity and equalized odds, alongside standard accuracy measures
+- **Compliance** — a view organized around HIPAA, GDPR, CCPA, and the EU AI Act
+- **Oversight** — example action items and a report export
 
 The purpose is to show which measures an oversight team would want on one screen and how alerts could be prioritized. It does not compute these measures from real predictions.
-
-## What I would build next
-
-- Compute the fairness measures from a real, documented dataset
-- Replace the random feed with a data connection
-- Remove the committed `node_modules` folder from the repository
 
 ## Run it locally
 
@@ -36,12 +41,17 @@ npm install
 npm run dev
 ```
 
-Built with React, Vite, and Tailwind CSS.
+## Roadmap
+
+- Compute the fairness measures from a real, documented dataset
+- Replace the random feed with a live data connection
+
+## Built with
+
+React · Vite · Tailwind CSS · lucide-react
 
 ## Author
 
-Joseph Bidias
+**Joseph Bidias** — [github.com/eaglepython](https://github.com/eaglepython)
 
-## License
-
-MIT
+<sub>Released under the MIT License.</sub>
