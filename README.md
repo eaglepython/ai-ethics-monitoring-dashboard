@@ -1,13 +1,10 @@
-![Screenshot 2025-07-09 111941](https://github.com/user-attachments/assets/98cedaf4-0fbf-4112-a8a4-5024f3f6859f)
+# AI Ethics Monitoring Dashboard
 
-# 🛡️ AI Ethics Monitoring Dashboard
+![status](https://img.shields.io/badge/status-prototype-orange) ![license](https://img.shields.io/badge/license-MIT-green) ![built_with](https://img.shields.io/badge/built_with-React-61DAFB) ![bundler](https://img.shields.io/badge/bundler-Vite-646CFF) ![styling](https://img.shields.io/badge/styling-Tailwind_CSS-38B2AC)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF.svg)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.3-38B2AC.svg)](https://tailwindcss.com/)
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black.svg)](https://vercel.com/)
+![Dashboard screenshot](https://github.com/user-attachments/assets/98cedaf4-0fbf-4112-a8a4-5024f3f6859f)
 
+*Screenshot of the demo. All figures shown are simulated.*
 
 A front-end prototype of a monitoring screen for bias and fairness in healthcare AI models.
 
